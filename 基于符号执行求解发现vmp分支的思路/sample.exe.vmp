@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="sample.exe" Options="857032" OutputFileName="sample3.9.vmp.exe" VMCodeSectionName=".???" VMComplexity="20">
+        <Procedures>
+            <Procedure MapAddress='VMProtectMarker &quot;secret&quot;' Options="0" CompilationType="2" />
+        </Procedures>
+    </Protection>
+</Document>
